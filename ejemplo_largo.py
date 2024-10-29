@@ -37,3 +37,7 @@ while True:
         print("Iniciando reseteo")
         sleep(1)
         machine.reset()
+
+# Este es el ejemplo completo
+# Para ejecutarlo, copiar y pegar en el REPL
+# Para detenerlo, presionar Ctrl+C
