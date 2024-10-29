@@ -19,6 +19,8 @@ while True:
         sleep(0.5)
     if cuenta == 5 and advertencia == 0:
         print("No presiones el boton 10 veces")
+
+    # este es un comentario
         advertencia = 1
     if cuenta == 8 and advertencia == 1:
         print("En serio, no presiones 10 veces sino me voy a reiniciar.")
@@ -31,11 +33,7 @@ while True:
         print("Cuenta regresiva.")
         sleep(1)
         print("3")
-        sleep(1)
-        print("2")
-        sleep(1)
-        print("1")
-        sleep(1)
+        print("nueva linea")
         print("Iniciando reseteo")
         sleep(1)
         machine.reset()
