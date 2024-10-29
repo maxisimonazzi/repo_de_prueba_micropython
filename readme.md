@@ -1,2 +1,2 @@
 Este es mi repositorio de prueba.
-agrego una linea de texto
+# agrego una linea de texto
